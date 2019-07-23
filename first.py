@@ -4,4 +4,6 @@ This is the second line
 
 This is the third line
 
+Adding the fourth line to be used for second commit
+
 
