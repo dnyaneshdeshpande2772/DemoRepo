@@ -7,3 +7,5 @@ This is the third line
 Adding the fourth line to be used for second commit
 
 
+This line is added to check commits
+
