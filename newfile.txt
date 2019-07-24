@@ -1,3 +1,4 @@
+This is a completely different text
 this is some content to mess with
+Adding new lines to check the status of the conflict file
 
-content to appednd
