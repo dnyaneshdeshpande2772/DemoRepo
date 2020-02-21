@@ -1,3 +1,3 @@
-Made changes to readme
+Added changes to readme
 
 This is a readme
